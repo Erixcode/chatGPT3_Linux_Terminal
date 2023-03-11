@@ -5,7 +5,7 @@ this client uses openai_key so there is no timeout, it's there waiting to be cal
 <br><b>How to install:</b>
 <br>you need to have python 3.8+
 <br><code> pip install openai </code>
-<br>get your openai api key and edit the code with your api key in it.
+<br>get your openai API KEY and edit the code with your API KEY and replace <i>'OPENAI_APIKEY_HERE'</i> with your API KEY.
 <br><code> python chatGPT3_Terminal.py </code>
 
 <br><br><b> Features:</b>
